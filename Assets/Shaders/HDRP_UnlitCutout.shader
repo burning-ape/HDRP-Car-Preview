@@ -1,4 +1,4 @@
-Shader "Custom/HDRPOpacityShader"
+Shader "Custom/HDRP_UnlitCutout"
 {
     Properties
     {
